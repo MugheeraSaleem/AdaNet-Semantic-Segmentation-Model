@@ -22,7 +22,7 @@ The model prioritizes higher strides to enforce lower FLOPs. The stride evolutio
 
 ### FLOPs reduction & comparison with Fixed Pooling based model
 <img width="4122" height="1583" alt="Picture12" src="https://github.com/user-attachments/assets/1f976a42-00fd-4a17-b4d1-8465097c7be5" />
-*Figure 6: FLOPs reduction during training | Learned Encoder Output Shapes and Resulting FLOPs Reduction (a) Cityscapes (256,256) (b)
+* Figure 6: FLOPs reduction during training | Learned Encoder Output Shapes and Resulting FLOPs Reduction (a) Cityscapes (256,256) (b)
 Cityscapes (512,1024) and (c) CamVid (256,256)*
 
 ## AdaNet Qualitative Results
