@@ -22,9 +22,16 @@ The model prioritizes higher strides to enforce lower FLOPs. The stride evolutio
 
 ### FLOPs reduction & comparison with Fixed Pooling based model
 <img width="4122" height="1583" alt="Picture12" src="https://github.com/user-attachments/assets/1f976a42-00fd-4a17-b4d1-8465097c7be5" />
-* Figure 6: FLOPs reduction during training | Learned Encoder Output Shapes and Resulting FLOPs Reduction (a) Cityscapes (256,256) (b)
-Cityscapes (512,1024) and (c) CamVid (256,256)*
+* Figure 6: FLOPs reduction during training | Learned Encoder Output Shapes and Resulting FLOPs Reduction (a) Cityscapes (256,256) (b) Cityscapes (512,1024) and (c) CamVid (256,256)*
 
 ## AdaNet Qualitative Results
+The visual results for Cityscapes (256,256) resolution can be seen in Figure 7 and the results on (512,1024) resolution can be seen in Figure 8.
+<img width="1812" height="1168" alt="image" src="https://github.com/user-attachments/assets/1d9f94b4-b81c-4da7-9752-c85b51d938a6" />
+<img width="2282" height="1019" alt="image" src="https://github.com/user-attachments/assets/7760540a-8965-43f8-85d4-ecd329670720" />
 
+The model results on Camvid (256,256) can also be seen in image below.
+<img width="1806" height="1247" alt="image" src="https://github.com/user-attachments/assets/21ee8344-57e3-4580-95a6-7e03f9f11725" />
+
+A comparison of the AdaNet model's output predictions and DeepLabv3 output prediction.
+<img width="977" height="1364" alt="image" src="https://github.com/user-attachments/assets/bdc91508-5362-4cf0-a4f3-286e1e9fb432" />
 
